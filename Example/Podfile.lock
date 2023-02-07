@@ -10,7 +10,7 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   DSFramework:
-    :commit: 599ae41f0d449b8089ddb2745445dce15c86cd79
+    :commit: 26fa44711f0430fd3885cfb0f43baf11ab36d380
     :git: https://github.com/JeevanGeek/DSFramework.git
 
 SPEC CHECKSUMS:
