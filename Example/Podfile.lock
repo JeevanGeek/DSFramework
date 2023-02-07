@@ -1,0 +1,21 @@
+PODS:
+  - DSFramework (1.0.0)
+
+DEPENDENCIES:
+  - DSFramework (from `https://github.com/JeevanGeek/DSFramework.git`)
+
+EXTERNAL SOURCES:
+  DSFramework:
+    :git: https://github.com/JeevanGeek/DSFramework.git
+
+CHECKOUT OPTIONS:
+  DSFramework:
+    :commit: 599ae41f0d449b8089ddb2745445dce15c86cd79
+    :git: https://github.com/JeevanGeek/DSFramework.git
+
+SPEC CHECKSUMS:
+  DSFramework: 319af3e6e21bb16f198e4e1a35bbde0f77e299f4
+
+PODFILE CHECKSUM: 27a650a2ac571c2b61d0540d4a720838e84c031d
+
+COCOAPODS: 1.11.3

@@ -6,11 +6,13 @@
 //
 
 import UIKit
+import DSFramework
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        view.backgroundColor = ColorPalette.primary[500]
         // Do any additional setup after loading the view.
     }
 

@@ -10,19 +10,8 @@
 		932BAB9029926FCB0014E2A6 /* ColorPalette.swift in Sources */ = {isa = PBXBuildFile; fileRef = 932BAB8F29926FCB0014E2A6 /* ColorPalette.swift */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		932BAC62299271D30014E2A6 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 932BAC5E299271D30014E2A6 /* Example.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 932BAC47299271D20014E2A6;
-			remoteInfo = Example;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
 		932BAB8F29926FCB0014E2A6 /* ColorPalette.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPalette.swift; sourceTree = "<group>"; };
-		932BAC5E299271D30014E2A6 /* Example.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Example.xcodeproj; path = Example/Example.xcodeproj; sourceTree = "<group>"; };
 		938C1C1629926CEF00CF8B1B /* DSFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DSFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -37,18 +26,9 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		932BAC5F299271D30014E2A6 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				932BAC63299271D30014E2A6 /* Example.app */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 		938C1C0C29926CEF00CF8B1B = {
 			isa = PBXGroup;
 			children = (
-				932BAC5E299271D30014E2A6 /* Example.xcodeproj */,
 				938C1C1829926CEF00CF8B1B /* Source */,
 				938C1C1729926CEF00CF8B1B /* Products */,
 			);
@@ -127,28 +107,12 @@
 			mainGroup = 938C1C0C29926CEF00CF8B1B;
 			productRefGroup = 938C1C1729926CEF00CF8B1B /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 932BAC5F299271D30014E2A6 /* Products */;
-					ProjectRef = 932BAC5E299271D30014E2A6 /* Example.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				938C1C1529926CEF00CF8B1B /* DSFramework */,
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXReferenceProxy section */
-		932BAC63299271D30014E2A6 /* Example.app */ = {
-			isa = PBXReferenceProxy;
-			fileType = wrapper.application;
-			path = Example.app;
-			remoteRef = 932BAC62299271D30014E2A6 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		938C1C1429926CEF00CF8B1B /* Resources */ = {
